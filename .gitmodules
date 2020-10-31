@@ -1,0 +1,3 @@
+[submodule "ext/itsimple"]
+	path = ext/itsimple
+	url = https://github.com/tvaquero/itsimple
